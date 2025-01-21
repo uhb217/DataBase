@@ -1,5 +1,3 @@
-package net.uhb217;
-
 public class Node<T>{
     private T value;
     private Node<T> next;

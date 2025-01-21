@@ -1,5 +1,3 @@
-package net.uhb217;
-
 public class Stack<T> {
     private Node<T> data;
 
