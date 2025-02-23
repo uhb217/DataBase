@@ -31,6 +31,6 @@ public class Node<T>{
     }
 
     public String toString() {
-        return hasNext()? value + " -> " + next: "|||";
+        return hasNext()? value + " -> " + next: value + " -> |||";
     }
 }
